@@ -1,6 +1,6 @@
 package org.launchcode.javawebdevtechjobsauthentication.controllers;
 
-import org.launchcode.javawebdevtechjobsauthentication.models.data.JobRepository;
+import org.launchcode.javawebdevtechjobsauthentication.data.JobRepository;
 import org.launchcode.javawebdevtechjobsauthentication.models.Job;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

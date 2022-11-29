@@ -1,4 +1,4 @@
-package org.launchcode.javawebdevtechjobsauthentication.models.data;
+package org.launchcode.javawebdevtechjobsauthentication.data;
 
 import org.launchcode.javawebdevtechjobsauthentication.models.Job;
 import org.springframework.data.repository.CrudRepository;
